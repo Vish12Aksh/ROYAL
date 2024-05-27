@@ -1,5 +1,6 @@
 # ROYAL
 
-This is first respsivbity
+This is first git respsivbity
 <br>
 Author : vishant
+last :kiru
